@@ -1,0 +1,9 @@
+[package]
+name = "mit-18.01sc"
+version = "0.1.0"
+entrypoint = "main.typ"
+compiler = "0.14.2"
+
+[dependencies]
+noteworthy = "0.3.0"
+physica = "0.9.8"
