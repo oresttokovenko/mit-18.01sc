@@ -5,8 +5,7 @@
   paper-size: "us-letter",
   title: "MIT 18.01SC Single Variable Calculus",
   header-title: "MIT 18.01SC",
-  date: "",
-  author: "Course Notes",
+  author: "Orest Tokovenko",
 )
 
 #include "unit-1-differentiation/unit-1.typ"

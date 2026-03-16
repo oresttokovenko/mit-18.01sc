@@ -9,6 +9,10 @@ watch:
 build:
     typst compile main.typ
 
+[doc("Format all Typst files")]
+fmt:
+    typstyle -i .
+
 [doc("Clean generated files")]
 clean:
     rm -f main.pdf
