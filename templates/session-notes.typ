@@ -4,6 +4,7 @@
 // Re-export noteworthy environments so sessions can use them
 #import "@preview/noteworthy:0.3.0": *
 #import "@preview/physica:0.9.8": *
+#import "@preview/cetz:0.4.2"
 
 // Callout box for key formulas
 #let formula(title: none, body) = block(

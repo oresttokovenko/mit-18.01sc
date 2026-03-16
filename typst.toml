@@ -7,3 +7,4 @@ compiler = "0.14.2"
 [dependencies]
 noteworthy = "0.3.0"
 physica = "0.9.8"
+cetz = "0.4.2"

@@ -24,10 +24,11 @@ If you are not confident in your answer, say so. Point to a specific external re
 
 ## Typst and notation
 
-Notes are written in [Typst](https://typst.app). The project uses two packages (see `typst.toml`):
+Notes are written in [Typst](https://typst.app). The project uses three packages (see `typst.toml`):
 
-- **noteworthy 0.3.0** — document template and environments
+- **noteworthy 0.3.0** — document template and environments (see `docs/noteworthy-environments.md`)
 - **physica 0.9.8** — math notation for physics and calculus
+- **cetz 0.4.2** — 2D drawing and plotting (axes, curves, labeled points, geometric diagrams)
 
 When writing or discussing math in Typst, prefer `physica` functions over raw Typst math. Key functions for this course:
 
