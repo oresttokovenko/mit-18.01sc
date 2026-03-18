@@ -6,6 +6,10 @@
 #import "@preview/physica:0.9.8": *
 #import "@preview/cetz:0.4.2"
 
+// Override environments with bar style (colored left-border)
+#import "@preview/theoretic:0.3.0" as theoretic
+#import theoretic.presets.bar: definition, note, theorem, example, remark, lemma, corollary, proposition, axiom, proof, exercise
+
 // Callout box for key formulas
 #let formula(title: none, body) = block(
   width: 100%,

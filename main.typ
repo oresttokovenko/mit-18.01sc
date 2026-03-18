@@ -5,6 +5,7 @@
   paper-size: "us-letter",
   title: "MIT 18.01SC Single Variable Calculus",
   header-title: "MIT 18.01SC",
+  date: [],
   author: "Orest Tokovenko",
 )
 
